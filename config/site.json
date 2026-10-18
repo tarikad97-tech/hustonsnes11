@@ -1,0 +1,40 @@
+{
+  "name": "Houston Local Guide",
+  "tagline": "Practical guides to free, family-friendly and outdoor things to do in Houston.",
+  "url": "https://houstons.com",
+  "language": "en-US",
+  "contact": {
+    "email": "",
+    "address": ""
+  },
+  "editor": "",
+  "analyticsId": "",
+  "adsensePublisherId": "",
+  "categories": [
+    {
+      "slug": "free-things-to-do",
+      "title": "Free Things to Do",
+      "intro": "Parks, public spaces and no-cost activities, with any fees or restrictions noted."
+    },
+    {
+      "slug": "family",
+      "title": "Family Activities",
+      "intro": "Ideas for families and kids, with practical details where official sources confirm them."
+    },
+    {
+      "slug": "outdoor",
+      "title": "Outdoor Activities",
+      "intro": "Parks, trails and open spaces, with weather and closing-time notes."
+    },
+    {
+      "slug": "budget",
+      "title": "Budget-Friendly Houston",
+      "intro": "Low-cost and free ideas, with the catches (parking, add-ons, closed days) spelled out."
+    },
+    {
+      "slug": "events",
+      "title": "Events",
+      "intro": "Event listings appear here only after date, place and details are verified."
+    }
+  ]
+}
